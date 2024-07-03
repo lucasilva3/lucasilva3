@@ -1,8 +1,6 @@
 # Boas Vindas!
 
-Me chamo Lucas e sou desenvolvedor Júnior, formado em Tecnologia da Informação e atualmente aprofundando meus estudos em Desenvolvimento de Sistemas. Tenho uma grande paixão por tecnologia e estou sempre em busca de desafios e oportunidades para expandir meus conhecimentos.
-
-Meu foco atualmente esta em Java e desenvolvimento de APIs.
+Me chamo Lucas, sou desenvolvedor Júnior com formação em Tecnologia da Informação e Desenvolvimento de Sistemas. Tenho uma grande paixão por tecnologia, especialmente no desenvolvimento back-end e criação de APIs, e estou constantemente em busca de desafios e oportunidades para expandir meus conhecimentos.
 
 <a href="#">
   <img height=160 align="center" src="https://my-stats-43gk.vercel.app/api?username=lucasilva3&show_icons=true&theme=darcula&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=110" />
